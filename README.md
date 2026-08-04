@@ -45,6 +45,12 @@ npm run dev
 pip install -r requirements.txt
 python app.py
 ```
+## 📸 Screenshots
 
+### Home Page
+![Home Page](image-link)
+
+### Prediction Result
+![Prediction Result](image-link)
 ## 👩‍💻 Developer
 Praveena Yadav
