@@ -1,0 +1,7 @@
+{
+  "name": "FloraGuard AI",
+  "description": "Advanced plant disease detection and health monitoring powered by deep learning. Protect your plants with instant diagnosis and expert care advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
