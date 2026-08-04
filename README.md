@@ -49,7 +49,11 @@ python app.py
 
 ### Home Page
 ![Home Page]([image-link](https://github.com/praveena0977/FloraGuard-AI/blob/d949511043daf5f0c7d4e77cc2bbfa699a1e5728/ss.png))
-
+### login Page
+![Home Page]([image-link](https://github.com/praveena0977/FloraGuard-AI/blob/909ad0fba72e5b97f646bcd79a43c54e3b1398bb/ss2.png))
+### Image Upload Page
+![Prediction Result](image-link)
+![Prediction Result](image-link)
 ### Prediction Result
 ![Prediction Result](image-link)
 ## 👩‍💻 Developer
