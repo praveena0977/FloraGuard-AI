@@ -48,7 +48,7 @@ python app.py
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](image-link)
+![Home Page]([image-link](https://github.com/praveena0977/FloraGuard-AI/blob/d949511043daf5f0c7d4e77cc2bbfa699a1e5728/ss.png))
 
 ### Prediction Result
 ![Prediction Result](image-link)
