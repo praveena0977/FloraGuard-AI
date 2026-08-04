@@ -48,13 +48,13 @@ python app.py
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page]([image-link](https://github.com/praveena0977/FloraGuard-AI/blob/d949511043daf5f0c7d4e77cc2bbfa699a1e5728/ss.png))
+![Home Page](https://github.com/praveena0977/FloraGuard-AI/blob/d949511043daf5f0c7d4e77cc2bbfa699a1e5728/ss.png)
 ### login Page
-![login Page]([image-link](https://github.com/praveena0977/FloraGuard-AI/blob/909ad0fba72e5b97f646bcd79a43c54e3b1398bb/ss2.png))
+![login Page](https://github.com/praveena0977/FloraGuard-AI/blob/909ad0fba72e5b97f646bcd79a43c54e3b1398bb/ss2.png)
 ### Image Upload Page
-![Image Upload Page]([image-link](https://github.com/praveena0977/FloraGuard-AI/blob/0eda43a7e93a864a8c6be48e108d2891385e057c/ss3.png))
-![Image Upload Page]([image-link](https://github.com/praveena0977/FloraGuard-AI/blob/f53bbba5d76dd0632e3ed0f6e1c1066dfb76abd9/ss4.png))
+![Image Upload Page](https://github.com/praveena0977/FloraGuard-AI/blob/0eda43a7e93a864a8c6be48e108d2891385e057c/ss3.png)
+![Image Upload Page](https://github.com/praveena0977/FloraGuard-AI/blob/f53bbba5d76dd0632e3ed0f6e1c1066dfb76abd9/ss4.png)
 ### Prediction Result
-![Prediction Result]([image-link](https://github.com/praveena0977/FloraGuard-AI/blob/34114c909648cacc5d756e2cff57a0d5c14c7868/ss5.png))
+![Prediction Result](https://github.com/praveena0977/FloraGuard-AI/blob/34114c909648cacc5d756e2cff57a0d5c14c7868/ss5.png)
 ## 👩‍💻 Developer
 Praveena Yadav
